@@ -1,4 +1,4 @@
-# Zendar Capstoe Project - 2019/2020
+# Zendar Capstone Project - 2019/2020
 UC Berkeley MEng Capstone Project: Autonomous vehicle perception with high-definition radars 
 
 ### Instructors:
